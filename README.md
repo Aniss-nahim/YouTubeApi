@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Presentation of the app
 This app is developed by java and uses Youtube Api to query data. it's only the back-end there is no GUI.
 
@@ -36,7 +35,3 @@ Here is the schema you should have in your database:
 Simply run the sql file **dataYoutubeApi.sql** to implement the schema.
 ---
 :clap: huppy coding :hearts:
-=======
-# YouTubeApi
-Back-end application with no GUI, That uses Youtube Api.
->>>>>>> d9c71a32956c8f3232c0fe155aade841fb2a6a45
