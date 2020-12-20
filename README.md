@@ -9,12 +9,12 @@ __client_secret.json__
 ```json
 {
     "installed":{
-        "client_id":"406188361528-egevj31favr5t8k84a25ob7h6jfjf3e7.apps.googleusercontent.com",
-        "project_id":"anissapi-223020",
+        "client_id":"Your client id",
+        "project_id":"Your project id",
         "auth_uri":"https://accounts.google.com/o/oauth2/auth",
         "token_uri":"https://www.googleapis.com/oauth2/v3/token",
         "auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs",
-        "client_secret":"VPQ2K-HIUdi1XWYnQsP2uBcc",
+        "client_secret":"Your secret key",
         "redirect_uris":[
             "urn:ietf:wg:oauth:2.0:oob",
             "http://localhost"
