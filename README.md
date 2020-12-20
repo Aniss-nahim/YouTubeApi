@@ -1,5 +1,5 @@
 # Presentation of the app
-This app is developed by java and uses Youtube Api to query data. it's only the back-end there is no GUI.
+This app is developed with java and uses Youtube Api to query data. it's only the back-end there is no GUI.
 
 # How to make it work ?
 ## Get your app key
@@ -23,15 +23,15 @@ __client_secret.json__
 }
 ```
 
-> Place your client_secret.json file in to YoutubeApi/src/main/resources folder
+> Place your client_secret.json file in to [resources folder](./YoutubeApi/src/main/resources) folder
 
 ## Create the data base
 While the app uses the API to retrieve data, it will store it in your local database.
-By default, the application uses **the Oracle database system**, but feel free to use any other database system you are comfortable with. To do this, you simply need to modify the jdbc settings for your database connectivity in the **YoutubeApi / src / main / java / Database.java** file
+By default, the application uses **the Oracle database system**, but feel free to use any other database system you are comfortable with. To do this, you simply need to modify the jdbc settings for your database connectivity in the [Database.java](./YoutubeApi/src/main/java/Database.java) file
 
 Here is the schema you should have in your database:
 ![database schema](./DBSchema.PNG)
 
-Simply run the sql file **dataYoutubeApi.sql** to implement the schema.
+>Simply run the sql file **dataYoutubeApi.sql** to implement the schema.
 ---
 :clap: huppy coding :hearts:
