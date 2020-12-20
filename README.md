@@ -34,8 +34,4 @@ Here is the schema you should have in your database:
 
 Simply run the sql file **dataYoutubeApi.sql** to implement the schema.
 ---
-<<<<<<< HEAD
 :clap: huppy coding :hearts:
-=======
-:clap: huppy coding :hearts:
->>>>>>> a91c834637b2ee89ada006ea25f5240050af7145
